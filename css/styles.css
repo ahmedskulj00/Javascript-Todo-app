@@ -1,6 +1,6 @@
 body {
-    background: rgb(43, 41, 41);
-    color: rgb(211, 199, 199);
+    background: rgb(255, 255, 255);
+    color: rgb(15, 14, 14);
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   }
   .container {
@@ -23,7 +23,7 @@ body {
     outline: none;
   }
   button {
-    background-color: green;
+    background-color: rgb(15, 14, 14);
     border: 0px;
     color:rgb(211, 199, 199);
     font-size: 15px;
@@ -40,10 +40,10 @@ body {
   
   h3,
   label[for='new-task'] {
-    color: gray;
+    color: rgb(15, 14, 14);
     font-weight: 700;
     font-size: 15px;
-    border-bottom: 2px solid green;
+    border-bottom: 2px solid rgb(15, 14, 14);
     padding: 30px 0 10px;
     margin: 0;
     text-transform: uppercase;
