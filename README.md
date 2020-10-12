@@ -1,4 +1,4 @@
-# Javascript-Project-1---Todo-app
+# Javascript-Todo-app
 This is my first HTML, CSS, and Vanilla JS project.
 #
 Currently the app supports:
