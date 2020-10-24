@@ -7,4 +7,4 @@ Currently the app supports:
 3. Deleting the task
 #
 App currently does not support any kind of storage.
-The preview of the app is [here](https://ahmedskulj00.github.io/Javascript-Todo-app/)
+The preview of the app is [here](https://ahmedskulj00.github.io/Javascript-TodoApp/)
